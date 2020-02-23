@@ -1,2 +1,2 @@
 # webCamSnapshot-JS-PHP
-Using web cam take snapshot and upload images to server
+Using web camera, users can take snapshot and upload images to server
